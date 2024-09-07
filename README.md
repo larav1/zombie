@@ -55,7 +55,7 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
 </div>
 
 <div align: "center">
-  <img src="" />
+  <img src="https://github.com/user-attachments/assets/4432edd5-bf55-4aef-ad06-9653e35d40a5" />
 </div>
 
 
