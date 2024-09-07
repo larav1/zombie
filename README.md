@@ -44,6 +44,12 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
 **Animes:** H.O.T.D Highschool of The Dead, Zombie Loan, Kabaneri Of The Iron Fortress, Zombieland Saga, Is This a Zombie?, Zom 100: Bucket List of the Dead, Gakkou Gurashi.
 
 ### Site
+<div align:"center">
+<img src="https://github.com/user-attachments/assets/96786791-078f-4c03-8876-89fd43122414" width=">
+  
+</div>
+![tela inicial]()
+
 
 
 
