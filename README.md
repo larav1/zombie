@@ -49,6 +49,16 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
   
 </div>
 
+**Busca pela série**
+<div align: "center>
+  <img src="https://github.com/user-attachments/assets/f427723d-f5c1-4132-9497-70c82eae2232" />
+</div>
+
+<div align: "center">
+  <img src="" />
+</div>
+
+
 
 
 
