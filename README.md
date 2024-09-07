@@ -45,10 +45,12 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
 
 ### Site
 <div align:"center">
-<img src="https://github.com/user-attachments/assets/96786791-078f-4c03-8876-89fd43122414" width=">
+  <img src="https://github.com/user-attachments/assets/acdf5c59-729c-476f-9e90-2a7414a0b5d0" />
   
 </div>
-![tela inicial]()
+
+
+
 
 
 
