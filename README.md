@@ -1,4 +1,5 @@
-# Zombie Session
+# Zombie Session <img src="https://github.com/user-attachments/assets/129f182b-fb9e-4522-b2c4-a4c0254385fd" width="45px"/> 
+
 Projeto desenvolvido durante a Imersão Dev Alura + Google 2024
 
 ### Descrição do projeto
