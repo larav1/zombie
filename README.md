@@ -24,7 +24,7 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
 2. Abra o arquivo `index.html`: Abra o arquivo index.html no seu navegador favorito.
 3. Comece a pesquisar: Digite o nome de um filme, série ou anime e veja a mágica acontecer!
 
-## Observações
+### Observações
 #### Informações sobre os filmes, séries e animes disponíveis atualmente
 - Título;
 - Tipo (filme, série, anime);
@@ -42,6 +42,10 @@ Zombie Session é o seu portal completo para o universo dos zumbis! Se você é 
 
 
 **Animes:** H.O.T.D Highschool of The Dead, Zombie Loan, Kabaneri Of The Iron Fortress, Zombieland Saga, Is This a Zombie?, Zom 100: Bucket List of the Dead, Gakkou Gurashi.
+
+### Site
+
+
 
 
 
